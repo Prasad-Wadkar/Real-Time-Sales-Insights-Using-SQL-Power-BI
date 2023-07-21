@@ -1,5 +1,6 @@
 # Real-Time-Sales-Insights-Using-SQL-Power-BI
 Approach of this project :- How I have made a Data 
+
 Analysis Pipeline. 1- Uploaded the Data to My SQL
 2- Analyzed the data into SQL Query 3- Connected 
 the data into Power Bi and made the necessary
