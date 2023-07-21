@@ -1,4 +1,5 @@
-# Real-Time-Sales-Insights-Using-SQL-Power-BI
+This case study project is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
+
 Approach of this project :- How I have made a Data 
 
 Analysis Pipeline. 1- Uploaded the Data to My SQL
