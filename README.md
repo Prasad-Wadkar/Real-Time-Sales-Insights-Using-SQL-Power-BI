@@ -8,6 +8,7 @@ changes in Power Query 4- Done the Visualization
 • Sales Insight
 • Profit Analysis
 • Performance Insight
+
 Results: An automated dashboard providing quick & 
 latest insight in order to support data driven decision 
 making
